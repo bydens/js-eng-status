@@ -11,7 +11,7 @@
 * *Practice*
 
 	* Created [bydens](https://github.com/bydens/js-eng-status) 'js-eng-status' repository (~30m)
-	* Created [Dayly Plan](https://github.com/bydens/js-eng-status/blob/master/report/daily-plans.md) report (~2h)
+	* Created [Daily Plan](https://github.com/bydens/js-eng-status/blob/master/report/daily-plans.md) report (~2h)
 	* Created [worklog](https://github.com/bydens/js-eng-status/blob/master/report/worklogs.md) (~30m)
 
 
