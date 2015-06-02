@@ -1,36 +1,18 @@
 #Worklogs
 
-##2015-May-30
-
-* Finilized 'Learned Primsiples' (~4h)
-
-##2015-May-01
+##2015-June-01
 
 * *Theory*
 
 	* Learning Principles (~4h)
-		* having few ideas to improve, my comments are [here](aaaaa)
 	* Started to learn markdown
-	* Started 'Tools for collaboration' (~2h)
+	* Learning 'how to write E-Mails' (~1h)
 
 * *Practice*
 
-	* Created [mine](aaaa) 'Workbook' repository (~2h)
-	* Created [Dayly Plan](mine-dayly-plan) report (~30m)
-	* Created [worklog](mine-first-worklog) (~1h)
-
-* *Obstacles*
-
-	* Having issues with pushing changes to mentor, additinal information [in chat](link-to-chat)
-
-* *Miscellaneous*
-
-	* found an interesting [getting started](https://guides.github.com/activities/hello-world/) guide about Github features
-
-* *Questions*
-
-	* What's the difference between GitHub and Bitbucket ?
-	* Why we need to create two types of reports each day ?
+	* Created [bydens](https://github.com/bydens/js-eng-status) 'js-eng-status' repository (~30m)
+	* Created [Dayly Plan](https://github.com/bydens/js-eng-status/blob/master/report/daily-plans.md) report (~2h)
+	* Created [worklog](https://github.com/bydens/js-eng-status/blob/master/report/worklogs.md) (~30m)
 
 
 
