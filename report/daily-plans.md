@@ -8,7 +8,7 @@
 1. Send 'pull request' to mentor(~10m)
 1. Find 'report/worklog.md' in my 'js-eng-status'(~10m)
 1. Editing 'worklog.md'(~1h)
-1. Commit changes and send 'pull request' to mentor(~10m)
+1. Commit changes(~10m)
 1. Find 'report/daily.md' in my 'js-eng-status' (~10m)
 1. Editing 'dally.md'(~2h)
 1. Commit changes and send 'pull request' to mentor(~10m)
