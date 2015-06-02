@@ -1,13 +1,9 @@
 #Daily Plans
 
-##2015-May-30
+##2015-June-01
 
-1. Finilize 'learning principles' (~2h)
-1. Prepare eng stauts project and start using it (~2h)
-1. Create skeleton of 'Tools for Collaboration' (~1h)
-
-##2015-May-01
-
-1. Prepare template of trainee workbook (~3h)
-1. Prepare video matherial (~3h)
-1. Review content and try worklow trainee-mentor (~2h)
+1. Find your mentor in forks for js-eng-status
+1. Clone mentor's repository and add link to my repo in README.md
+1. Find 'report/daily.md' in my 'js-eng-status' (~1h)
+1. Commit changes
+1. Send 'pull request' to mentor
