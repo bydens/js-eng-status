@@ -13,3 +13,7 @@
 1. Commit changes and send 'pull request' to mentor(~10m)
 1. Learning additional materials(~3h 40m)
 
+##2015-June-02
+
+1. Learning to use git (~6h)
+  * [Try Git](https://try.github.io/)
