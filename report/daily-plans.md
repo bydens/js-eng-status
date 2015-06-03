@@ -15,5 +15,7 @@
 
 ##2015-June-02
 
-1. Learning to use git (~6h)
-  * [Try Git](https://try.github.io/)
+1. Learning to use git
+  * [Try Git](https://try.github.io/) (~1h)
+  * [Lesson 1: Navigating a Commit History] (https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778925) (~6h)
+1. Continue learning 'basic markdown syntax' (~1h)
