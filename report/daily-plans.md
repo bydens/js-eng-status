@@ -1,6 +1,6 @@
 #Daily Plans
 
-##2015-June-01
+##2015-June-02
 
 1. Find your mentor in forks for js-eng-status (~10m)
 1. Clone mentor's repository and add link to my repo in README.md(~10m)
@@ -13,7 +13,7 @@
 1. Commit changes and send 'pull request' to mentor(~10m)
 1. Learning additional materials(~3h 40m)
 
-##2015-June-02
+##2015-June-03
 
 1. Learning to use git
   * [Try Git](https://try.github.io/) (~1h)
