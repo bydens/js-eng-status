@@ -41,4 +41,13 @@
 		* Pushed my [reflections](https://github.com/bydens/jsTutor/blob/master/Lesson2/lesson_2_reflections.txt) for lesson 2
 		* Pushed ['asteroid'](https://github.com/bydens/asteroids) repository with new features and commit history according to lesson 2
 
+##2015-June-05
 
+* *Theory*
+	* Finished learning lesson 3 on udacity.com
+	* Readed about Git on [habrahabr](http://habrahabr.ru/post/174467/)
+
+* *Practice*
+ 	* Write (reflections)[https://github.com/bydens/reflections/blob/master/lesson_3_reflections.txt] about GitHub
+ 	* From Lesson 3
+ 		* pull request for adventure (game)[https://github.com/bydens/create-your-own-adventure]	
