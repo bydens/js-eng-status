@@ -13,10 +13,6 @@
 ###My Team
 
 * [bydens](https://github.com/bydens/js-eng-status)
-* [Wall E ](https://github.com/walle010101/js-eng-status)
-* [Vasya](vvv)
-* [Masha](mmm)
-* [Sasha](sss)
 
 ##My Reporting
 
