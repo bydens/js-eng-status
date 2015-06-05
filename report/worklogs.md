@@ -48,6 +48,6 @@
 	* Readed about Git on [habrahabr](http://habrahabr.ru/post/174467/)
 
 * *Practice*
- 	* Write (reflections)[https://github.com/bydens/reflections/blob/master/lesson_3_reflections.txt] about GitHub
+ 	* Write [reflections](https://github.com/bydens/reflections/blob/master/lesson_3_reflections.txt) about GitHub
  	* From Lesson 3
- 		* pull request for adventure (game)[https://github.com/bydens/create-your-own-adventure]	
+ 		* pull request for adventure [game](https://github.com/bydens/create-your-own-adventure)	
