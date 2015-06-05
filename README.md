@@ -16,6 +16,6 @@
 
 ##My Reporting
 
-* [Daily Plans](report/daily-plans.md)
-* [Worklogs](report/worklogs.md)
+* [Daily Plans](https://github.com/bydens/js-eng-status/blob/master/report/daily-plans.md)
+* [Worklogs](https://github.com/bydens/js-eng-status/blob/master/report/worklogs.md)
 
