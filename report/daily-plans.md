@@ -20,8 +20,14 @@
   * [Lesson 1: Navigating a Commit History] (https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778925) (~6h)
 1. Continue learning 'basic markdown syntax' (~1h)
 
-##2015-June-03
+##2015-June-04
 
 1. Finish learning [Lesson 1: Navigating a Commit History] (https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778925) (~1h)
 1. Start [Lesson 2: Creating and Modifying a Repository] (https://www.udacity.com/course/viewer#!/c-ud775/l-2969618657/m-2960548760) (~5h)
+1. Read additional materials (~2h)
+
+##2015-June-05
+
+1. Learning Lesson 3 [Use Git and GitHub 2](https://www.udacity.com/course/viewer#!/c-ud775/l-3105028581/m-3089888671)(~3h)
 2. Read additional materials (~2h)
+3. Start learning 'tools for development' (~3h)
