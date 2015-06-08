@@ -51,3 +51,22 @@
  	* Write [reflections](https://github.com/bydens/reflections/blob/master/lesson_3_reflections.txt) about GitHub
  	* From Lesson 3
  		* pull request for adventure [game](https://github.com/bydens/create-your-own-adventure)	
+
+##2015-June-08
+
+* *Theory*
+	* Studied developer Tools
+		1. [Getting Started & Basic DOM and Styles](http://discover-devtools.codeschool.com/chapters/1?locale=en)
+		2. [Advanced DOM and Styles](http://discover-devtools.codeschool.com/chapters/2?locale=en)
+		3. [Working With the Console](http://discover-devtools.codeschool.com/chapters/3?locale=en)
+		4. [Debugging JavaScript](http://discover-devtools.codeschool.com/chapters/4?locale=en)
+	* Readed about style code for javascript;
+* *Practice*
+	* Installed and seting SublimeText;
+	* Installed WebStorm;
+	* Made challenges for Chapter 1, Chapter 2, Chapter 3, Chapter 4 from [Explore and Master
+Chrome DevTools](http://discover-devtools.codeschool.com/)
+	* Installed NodeJS and NPM.
+	* Installed 'jshint' globally
+	* Сonfigured 'jshint' for SublimeText
+	* Readed and cloned [Naming Convention](Naming Convention)
