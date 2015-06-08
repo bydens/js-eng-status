@@ -31,3 +31,13 @@
 1. Learning Lesson 3 [Use Git and GitHub 2](https://www.udacity.com/course/viewer#!/c-ud775/l-3105028581/m-3089888671)(~3h)
 2. Read additional materials (~2h)
 3. Start learning 'tools for development' (~3h)
+
+##2015-June-08
+
+1. Install and setting dev tools (~3h)
+2. Install NodeJS with NPM (~30m)
+3. Learning developer Tools
+ * [Getting Started & Basic DOM and Styles](http://discover-devtools.codeschool.com/chapters/1?locale=en) (~1h)
+ * [Advanced DOM and Styles](http://discover-devtools.codeschool.com/chapters/2?locale=en) (~1h)
+ * [Working With the Console](http://discover-devtools.codeschool.com/chapters/3?locale=en) (~1h)
+ * [Debugging JavaScript](http://discover-devtools.codeschool.com/chapters/4?locale=en) (~1h)
