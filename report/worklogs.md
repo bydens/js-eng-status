@@ -1,5 +1,19 @@
 #Worklogs
 
+##2015-June-05
+
+* *Theory*
+	* Readed Introduction
+	* Values, Types, and Operators
+	* Program Structure
+* *Practice*
+	1. Created repository [eloquent-samples](https://github.com/bydens/eloquent-samples)
+	1. Writed implementation of
+		* Triangle drawing
+		* FizzBuzz
+		* Chess Board
+
+
 ##2015-June-08
 
 * *Theory*
