@@ -41,3 +41,11 @@
  * [Advanced DOM and Styles](http://discover-devtools.codeschool.com/chapters/2?locale=en) (~1h)
  * [Working With the Console](http://discover-devtools.codeschool.com/chapters/3?locale=en) (~1h)
  * [Debugging JavaScript](http://discover-devtools.codeschool.com/chapters/4?locale=en) (~1h)
+ * 
+ 
+##2015-June-09
+Start learning 'Basic Syntax'
+* Read course is [Eloquent JavaScript](http://eloquentjavascript.net/) (~8h)
+ 1. [Introduction](http://eloquentjavascript.net/00_intro.html)
+ 2. [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+ 3. [Program Structure](http://eloquentjavascript.net/02_program_structure.html)
