@@ -11,7 +11,7 @@
 	1. Writed implementation of
 		* Triangle drawing
 		* FizzBuzz
-		* Chess Board
+		* Chess Board (start)
 
 
 ##2015-June-08
