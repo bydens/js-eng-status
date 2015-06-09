@@ -12,7 +12,7 @@
 
 ###My Team
 
-* [bydens](https://github.com/bydens/js-eng-status)
+* [Denys Bykanov](https://github.com/bydens/js-eng-status)
 
 ##My Reporting
 
