@@ -1,5 +1,18 @@
 #Worklogs
 
+##2015-June-10
+
+* *Theory*
+	* Readed "Functions"
+	* Readed "Data Structures: Objects and Arrays"
+* *Practice*
+	* Writed implementation of
+		* Minimum
+		* Recursion
+		* Bean counting
+		* The sum of a range (with bonus assignment)
+	* Pushed in [eloquent-samples](https://github.com/bydens/eloquent-samples) repository
+
 ##2015-June-09
 
 * *Theory*
