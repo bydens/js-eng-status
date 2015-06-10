@@ -1,5 +1,20 @@
 #Daily Plans
 
+##2015-June-10
+
+* Finish make 'Chess Board'. (~30m)
+* Read theory about JavaScript. (~8h)
+ * Functions
+ * Data Structures: Objects and Arrays
+* Practice run.(~3h)
+ * Minimum
+ * Recursion
+ * Bean counting
+ * The sum of a range
+ * Reversing and array
+ * A list
+ * Deep comparison 
+
 ##2015-June-09
 
 Start learning 'Basic Syntax'
