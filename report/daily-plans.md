@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-June-11
+
+* End the practice of (~2h)
+ * Reversing and array
+ * A list
+ * Deep comparison
+* Read theory about JavaScript. (~6h)
+ * High-order Functions
+
 ##2015-June-10
 
 * Finish make 'Chess Board'. (~30m)
