@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-June-12
+ * Read about "High-Order Functions"
+ * Write my own implementation
+  * Flattering
+  * Mother-child age difference
+  * Historical life expectancy
+  * Every and then some
+ * Share through GitHub
+
 ##2015-June-11
 
 * End the practice of (~2h)
