@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-June-11
+
+* *Practice*
+	* Reversing and array
+	* A list
+	* Deep comparison
+
 ##2015-June-10
 
 * *Theory*
