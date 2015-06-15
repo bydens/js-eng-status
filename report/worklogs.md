@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-June-12
+
+* *Theory*
+	* Readed "High-Order Functions"
+* *Practice*
+  * Flattering
+  * Mother-child age difference
+  * Historical life expectancy
+  * Every and then some
+  * Pushed through [GitHub](https://github.com/bydens/eloquent-samples/tree/master/3%20High-Order%20Functions)
+
 ##2015-June-11
 
 * *Practice*
