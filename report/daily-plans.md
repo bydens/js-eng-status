@@ -1,5 +1,13 @@
 #Daily Plans
 
+##2015-June-15
+* Read chapter "The Secret Life of Objects"
+1. Write your own implementation
+	* A Vector Type
+	* Another cell
+	* Sequence interface
+1. Share through GitHub
+
 ##2015-June-12
  * Read about "High-Order Functions"
  * Write my own implementation
