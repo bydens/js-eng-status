@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-June-15
+* *Theory*
+	* Readed "The Secret Life of Objects"
+* *Practice*
+	* A Vector Type.
+
 ##2015-June-12
 
 * *Theory*
