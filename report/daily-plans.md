@@ -1,5 +1,13 @@
 #Daily Plans
 
+##2015-June-16
+
+1. Write your own implementation
+	* Another cell
+	* Sequence interface
+1. Share through GitHub
+1. Read "Project: Electronic Life".
+
 ##2015-June-15
 * Read chapter "The Secret Life of Objects"
 1. Write your own implementation
