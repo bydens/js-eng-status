@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-June-17
+
+1.  Write your own implementation of electronic life and extend it with:
+	* Artificial Stupidity (~1h)
+	* Predators (~2h)
+	* Add more plants and spices (~1h) 
+1. Share through GitHub
+	* Provide description of application in README.md (~4h)
+
 ##2015-June-16
 
 1. Write your own implementation
