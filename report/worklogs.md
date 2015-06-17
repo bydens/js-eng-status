@@ -1,6 +1,14 @@
 #Worklogs
 
+##2015-June-16
+
+* *Practice*
+	* Pushed ["Another cell"](https://github.com/bydens/eloquent-samples/tree/master/4%20The%20Secret%20Life%20of%20Objects/Another%20cell).
+	* Pusshed ["Sequence interface"](https://github.com/bydens/eloquent-samples/tree/master/4%20The%20Secret%20Life%20of%20Objects/Sequence%20interface).
+	* Readed and maked "Project: Electronic Life".
+
 ##2015-June-15
+
 * *Theory*
 	* Readed "The Secret Life of Objects"
 * *Practice*
