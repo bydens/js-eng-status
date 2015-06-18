@@ -1,5 +1,15 @@
 #Worklogs
 
+##2015-June-17
+
+* *Practice*
+1.  Writed my own implementation of electronic life and extend it with:
+	* Artificial Stupidity
+	* Predators
+	* Add more plants and spices
+1. Pushed on [GitHub](https://github.com/bydens/eloquent-samples/tree/master/5%20The%20Electronic%20Life)
+	* Provide description of application in README.md
+
 ##2015-June-16
 
 * *Practice*
