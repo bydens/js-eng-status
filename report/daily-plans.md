@@ -3,9 +3,11 @@
 ##2015-June-18
 **Theory**
 
+>Time: (~3h)
+
 1. Read additional materials about OOP on javascript (~2h)
 2. Read "Bugs and Error Handling" (~2h)
-3. Read "Regular Expressions"
+3. Read "Regular Expressions"(~2h)
 
 **Practice**
 
