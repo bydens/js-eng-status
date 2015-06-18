@@ -1,7 +1,25 @@
 #Daily Plans
 
-##2015-June-17
+##2015-June-18
+**Theory**
+1. Read additional materials about OOP on javascript (~2h)
+2. Read "Bugs and Error Handling" (~2h)
+3. Read "Regular Expressions"
 
+**Practice**
+
+>Time: (~3h)
+
+1. Write your own implementation
+	* Retry
+	* The locked box
+	* Regexp golf
+	* Quoting Style
+	* Numbers again
+1. Share through GitHub
+
+
+##2015-June-17
 1.  Write your own implementation of electronic life and extend it with:
 	* Artificial Stupidity (~1h)
 	* Predators (~2h)
@@ -10,7 +28,6 @@
 	* Provide description of application in README.md (~4h)
 
 ##2015-June-16
-
 1. Write your own implementation
 	* Another cell
 	* Sequence interface
