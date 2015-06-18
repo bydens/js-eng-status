@@ -7,7 +7,7 @@
 	* Artificial Stupidity
 	* Predators
 	* Add more plants and spices
-1. Pushed on [GitHub](https://github.com/bydens/eloquent-samples/tree/master/5%20The%20Electronic%20Life)
+1. Pushed on [GitHub](https://github.com/bydens/eloquent-electronic-life)
 	* Provide description of application in README.md
 
 ##2015-June-16
