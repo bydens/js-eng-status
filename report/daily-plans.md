@@ -1,5 +1,29 @@
 #Daily Plans
 
+##2015-June-19
+
+## Table of Contents
+
+> Time: (~16h)
+
+**Theory**
+
+1. [Modules](http://eloquentjavascript.net/06_object.html)
+1. [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+1. [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
+1. [Why AMD](http://requirejs.org/docs/whyamd.html)
+1. [npm for all javascript](http://maxogden.com/node-packaged-modules.html)
+
+**Practice**
+
+1. Write my own implementation
+	* Month Names
+1. Separate 'Electronic Life' project by modules (not AMD or CommonJS)
+1. Organize modules with CommonJS (runs only in node)
+1. Organize modules with RequireJS and AMD (runs in browser)
+	* [Example: Simple one page app](https://github.com/volojs/create-template)
+1. Share through GitHub
+
 ##2015-June-18
 **Theory**
 
