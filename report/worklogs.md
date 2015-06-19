@@ -1,5 +1,26 @@
 #Worklogs
 
+##2015-June-18
+
+**Theory**
+
+1. Read additional materials about OOP on javascript (~2h)
+2. Read "Bugs and Error Handling" (~2h)
+3. Read "Regular Expressions"(~2h)
+
+**Practice**
+
+1. Write your own implementation
+	* Retry
+	* The locked box
+	* Regexp golf
+	* Quoting Style
+	* Numbers again
+1. Pushed on GitHub.
+	* [Bugs and Error Handling](https://github.com/bydens/eloquent-samples/tree/master/6%20Bugs%20and%20Error%20Handling)
+	* [Regular Expressions](https://github.com/bydens/eloquent-samples/tree/master/7%20Regular%20Expressions)
+
+
 ##2015-June-17
 
 * *Practice*
