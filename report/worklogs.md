@@ -1,5 +1,20 @@
 #Worklogs
 
+##2015-June-19
+
+**Theory**
+
+1. [Modules](http://eloquentjavascript.net/06_object.html)
+1. [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+1. [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
+1. [Why AMD](http://requirejs.org/docs/whyamd.html)
+1. [npm for all javascript](http://maxogden.com/node-packaged-modules.html)
+
+**Practice**
+
+1. Write my own implementation
+	* Month Names
+
 ##2015-June-18
 
 **Theory**
