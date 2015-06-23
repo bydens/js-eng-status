@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-June-20
+
+**Theory**
+
+1. Read additional materials about midules in JS.
+
+**Practice**
+
+1. Separate ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/namespase) project by pattern namespace
+2. Separate ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/modules) project by modules
+
 ##2015-June-19
 
 **Theory**
