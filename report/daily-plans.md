@@ -1,11 +1,27 @@
 #Daily Plans
 
-##2015-June-20
+##2015-June-23
 
 >Time (~4h)
 
 **Theory**
-1. Read additional materials about midules in JS.
+1. Read additional materials about modules in JS.
+
+**Practice**
+
+>Time (~4h)
+
+1. Organize modules with CommonJS (runs only in node)
+1. Organize modules with RequireJS and AMD (runs in browser)
+	* [Example: Simple one page app](https://github.com/volojs/create-template)
+1. Share through GitHub
+
+##2015-June-22
+
+>Time (~4h)
+
+**Theory**
+1. Read additional materials about modules in JS.
 
 **Practice**
 
@@ -16,6 +32,7 @@
 1. Organize modules with RequireJS and AMD (runs in browser)
 	* [Example: Simple one page app](https://github.com/volojs/create-template)
 1. Share through GitHub
+
 ##2015-June-19
 
 ## Table of Contents
