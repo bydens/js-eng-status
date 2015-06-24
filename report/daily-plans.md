@@ -1,5 +1,21 @@
 #Daily Plans
 
+##2015-June-24
+
+>Time (~4h)
+
+**Theory**
+1. Read additional materials about modules in JS.
+
+**Practice**
+
+>Time (~4h)
+
+1. Separate my 'Electronic Life' project by modules (not AMD or CommonJS)
+1. Organize modules with RequireJS and AMD (runs in browser)
+	* [Example: Simple one page app](https://github.com/volojs/create-template)
+1. Share through GitHub
+
 ##2015-June-23
 
 >Time (~4h)
