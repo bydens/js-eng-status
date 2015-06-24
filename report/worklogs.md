@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-June-23
+
+**Theory**
+
+1. Read additional materials about modules in JS.
+2. Read additional materials about requirejs.
+
+**Practice**
+
+1. Used requirejs in electronic life.
+
 ##2015-June-22
 
 **Theory**
