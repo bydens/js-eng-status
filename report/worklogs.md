@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-June-24
+
+**Practice**
+	
+	* ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/modules_new) project by modules (not AMD or CommonJS)
 
 ##2015-June-23
 
