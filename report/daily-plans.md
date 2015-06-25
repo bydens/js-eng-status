@@ -1,5 +1,15 @@
 #Daily Plans
 
+##2015-June-25
+
+**Practice**
+
+>Time (~8h)
+
+1. Organize modules with RequireJS and AMD (runs in browser)
+2. Organize modules with CommonJS (runs only in node)
+3. Share through GitHub
+
 ##2015-June-24
 
 >Time (~4h)
