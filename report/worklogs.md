@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-June-25
+
+**Practice**
+	
+* Pushed ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/modules_fixed) project by modules (not AMD or CommonJS)
+* Pushed [modules](https://github.com/bydens/eloquent-electronic-life/tree/requirejsNew) with RequireJS and AMD (runs in browser)
+
 ##2015-June-24
 
 **Practice**
