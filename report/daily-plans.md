@@ -1,5 +1,15 @@
 #Daily Plans
 
+##2015-June-30
+
+**Practice**
+
+>Time (~8h)
+
+1. Organize modules with CommonJS (runs only in node)
+2. Practical tasks for modules javascript.
+
+
 ##2015-June-26
 
 **Practice**
