@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-June-26
+
+**Theory**
+
+1. Read additional materials about CommonJS.
+
+**Practice**
+
+1. Organize modules with CommonJS (runs only in node)
+2. Practical tasks for modules javascript.
+
 ##2015-June-25
 
 **Practice**
