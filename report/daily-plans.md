@@ -1,5 +1,35 @@
 #Daily Plans
 
+##2015-July-02
+
+**Theory**
+
+>Time (~4h)
+
+1. Read Project: A Programming Language.
+
+**Practice**
+
+>Time (~4h)
+
+1. Write your own implementation.
+2. Publish through GitHub.
+
+##2015-July-01
+
+**Theory**
+
+>Time (~4h)
+
+1. Read materials about Browserify.
+
+**Practice**
+
+>Time (~4h)
+
+1. Organize modules in 'Electronic Life' with CommonJS but make it runs in a browser
+2. Push on github.
+
 ##2015-June-30
 
 **Practice**
