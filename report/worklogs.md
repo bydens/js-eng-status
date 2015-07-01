@@ -1,5 +1,27 @@
 #Worklogs
 
+##2015-July-01
+
+**Theory**
+
+1. Read materials about Browserify.
+
+**Practice**
+
+1. Organize modules in ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/Browserify) with CommonJS but make it runs in a browser (Browserify).
+2. Refactoring code ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/requirejsNew) with RequireJs.
+3. Refactoring code ['Electronic Life'](https://github.com/bydens/eloquent-electronic-life/tree/commonjs) with CommonJs.
+
+##2015-June-30
+
+**Theory**
+
+1. Read additional materials about CommonJS.
+
+**Practice**
+
+1. Organize modules with CommonJS (runs only in node)
+
 ##2015-June-26
 
 **Theory**
