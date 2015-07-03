@@ -6,6 +6,22 @@
 
 >Time (~4h)
 
+1. Read about unit testing.
+
+**Practice**
+
+>Time (~4h)
+
+1. Writed tests and implementation.
+2. Refactoring code in 'Electronic life'.
+2. Publish through GitHub.
+
+##2015-July-02
+
+**Theory**
+
+>Time (~4h)
+
 1. Read Project: A Programming Language.
 
 **Practice**
