@@ -1,6 +1,14 @@
 #Worklogs
 
-##2015-July-02
+##2015-July-03
+
+**Practice**
+
+1. Refactoring code of 'Elecronic life'
+	* [Browserify](https://github.com/bydens/eloquent-electronic-life/tree/BrowserifyNew)
+	* [CommonJs](https://github.com/bydens/eloquent-electronic-life/tree/commonjs)
+2. Writed tests and implementation.
+
 
 **Theory**
 
