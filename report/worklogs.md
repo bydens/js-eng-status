@@ -4,6 +4,7 @@
 
 **Practice**
 
+[Writed tests and implementation.](https://github.com/bydens/try-bdd-with-utils)
 * Added function 'map';
 * Added function 'groupBy';
 * Added function 'once';
