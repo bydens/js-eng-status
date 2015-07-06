@@ -3,6 +3,7 @@
 ##2015-July-06
 
 **Practice**
+
 	* Added function 'map';
 	* Added function 'groupBy';
 	* Added function 'once';
