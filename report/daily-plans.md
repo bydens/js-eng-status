@@ -8,7 +8,7 @@
 
 1. Writed tests and implementation.
 
-##2015-July-02 - 2015-July-03
+##2015-July-03
 
 **Theory**
 
