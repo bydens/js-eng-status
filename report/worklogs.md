@@ -4,9 +4,9 @@
 
 **Practice**
 
-	* Added function 'map';
-	* Added function 'groupBy';
-	* Added function 'once';
+* Added function 'map';
+* Added function 'groupBy';
+* Added function 'once';
 
 ##2015-July-03
 
