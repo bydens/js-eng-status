@@ -1,5 +1,19 @@
 #Daily Plans
 
+##2015-July-07
+
+**Practice**
+
+>Time (~3h)
+
+1. Writed tests and implementation.
+ 
+**Theory**
+
+>Time (~5h)
+
+1. Read Project: A Programming Language.
+
 ##2015-July-06
 
 **Practice**
