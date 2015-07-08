@@ -1,5 +1,20 @@
 #Daily Plans
 
+##2015-July-08
+
+> Time: (~2h)
+
+**Theory**
+
+1. [Project: A Programming Language](http://eloquentjavascript.net/11_language.html)
+
+**Practice**
+
+> Time: (~4h)
+
+1. Write your own implementation
+1. Publish through GitHub   
+
 ##2015-July-07
 
 **Practice**
