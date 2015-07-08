@@ -1,5 +1,13 @@
 #Worklogs
 
+##2015-July-07
+
+**Practice**
+
+[Writed tests and implementation.](https://github.com/bydens/try-bdd-with-utils)
+* Added function 'debounce';
+
+
 ##2015-July-06
 
 **Practice**
