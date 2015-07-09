@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-08
+
+[Fixed tests and implementation.](https://github.com/bydens/try-bdd-with-utils);
+Readed theory about "A Programming Language";
+
 ##2015-July-07
 
 **Practice**
