@@ -4,7 +4,7 @@
 
 **Practice**
 
-> Time: (~4h)
+> Time: (~8h)
 
 1. Write my own implementation of " A Programming Language";
 1. Publish through GitHub   
