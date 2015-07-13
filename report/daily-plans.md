@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-July-13
+
+**Practice**
+
+> Time: (~8h)
+
+1. Write utests for " A Programming Language";
+1. Publish through GitHub 
+
 ##2015-July-10
 
 **Practice**
