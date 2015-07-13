@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-July-10
+
+* [Added "fake time" test in implementation BDD.](https://github.com/bydens/try-bdd-with-utils);
+* Start writed tests for "A Programming Language";
+
+
 ##2015-July-09
 
 * [Added new tests and implementation.](https://github.com/bydens/try-bdd-with-utils);
