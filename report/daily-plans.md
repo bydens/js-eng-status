@@ -12,7 +12,7 @@
 
 > Time: (~4h)
 
-1. Fixe sort:function in try-bdd-with-utils.
+1. Fix sort:function in try-bdd-with-utils.
 1. Your my implementation of 
 	* Build a table
 	* Elements by tag name
