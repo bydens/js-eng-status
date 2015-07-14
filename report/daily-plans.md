@@ -1,5 +1,27 @@
 #Daily Plans
 
+> Time: (~4h)
+
+**Theory**
+
+1. [JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
+1. [The Document Object Model](http://eloquentjavascript.net/13_dom.html)
+1. [Handling Events](http://eloquentjavascript.net/14_event.html)
+
+**Practice**
+
+> Time: (~4h)
+
+1. Fixe sort:function in try-bdd-with-utils.
+1. Your my implementation of 
+	* Build a table
+	* Elements by tag name
+	* The cat's hat
+	* Censored Keyboard
+	* Mouse Trail
+	* Tabs
+1. Publish through Github
+
 ##2015-July-13
 
 **Practice**
