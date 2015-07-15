@@ -2,9 +2,21 @@
 
 ##2015-July-14
 
-* Start writed tests for ["A Programming Language"](https://github.com/bydens/A-Programming-Language);
+* [Fixed tests and implementation.](https://github.com/bydens/try-bdd-with-utils);
+* Pushed on GitHub tests of ["A Programming Language"](https://github.com/bydens/A-Programming-Language);
+* Readed "JavaScript and the Browser"
+* Readed "The Document Object Model"
+* Readed "Handling Events"
+* Wrided my implementation of 
+	* Build a table
+	* Elements by tag name
+	* The cat's hat
 
 ##2015-July-13
+
+* Start writed tests for ["A Programming Language"](https://github.com/bydens/A-Programming-Language);
+
+##2015-July-12
 
 * [Added "fake time" test in implementation BDD.](https://github.com/bydens/try-bdd-with-utils);
 * Start writed tests for "A Programming Language";
