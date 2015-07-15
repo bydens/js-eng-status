@@ -1,5 +1,36 @@
 #Daily Plans
 
+##2015-July-15
+
+**Practice**
+
+> Time: (~2h)
+
+1. My own implementation of 
+	* Censored Keyboard
+	* Mouse Trail
+	* Tabs
+1. Publish through Github
+
+**Theory**
+
+> Time: (~4h)
+
+1. [Project: A Platform Game](http://eloquentjavascript.net/15_game.html)
+
+
+**Practice**
+
+> Time: (~4h)
+
+1. My own implementation of the game and 
+	* Game over
+	* Pausing the game
+1. Publish through Github as separate project
+
+
+##2015-July-14
+
 > Time: (~4h)
 
 **Theory**
@@ -13,7 +44,7 @@
 > Time: (~4h)
 
 1. Fix sort:function in try-bdd-with-utils.
-1. Your my implementation of 
+1. My own implementation of 
 	* Build a table
 	* Elements by tag name
 	* The cat's hat
