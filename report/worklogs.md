@@ -6,8 +6,8 @@
 	* Censored Keyboard
 	* Mouse Trail
 	* Tabs
-1. Publish through Github: [DOM](https://github.com/bydens/eloquent-samples/tree/master/13.%20DOM), [Handling Events](https://github.com/bydens/eloquent-samples/tree/master/14%20Handling%20Events)
-2. Readed "Project: A Platform Game"
+1. Publish through Github: [DOM](https://github.com/bydens/eloquent-samples/tree/master/13.%20DOM), [Handling Events](https://github.com/bydens/eloquent-samples/tree/master/14%20Handling%20Events);
+2. Readed "Project: A Platform Game";
 
 ##2015-July-14
 
