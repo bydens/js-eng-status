@@ -2,7 +2,7 @@
 
 ##2015-July-15
 
-1.Implementation of 
+1. Implementation of 
 	* Censored Keyboard
 	* Mouse Trail
 	* Tabs
