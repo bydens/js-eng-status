@@ -1,5 +1,19 @@
 #Daily Plans
 
+##2015-July-17
+
+**Practice**
+
+> Time: (~8h)
+
+1. My own implementation of the game and 
+	* Game over
+	* Pausing the game
+1. Make commonjs
+1. Make TDD
+1. Publish through Github as separate project
+
+
 ##2015-July-16
 
 **Theory**
