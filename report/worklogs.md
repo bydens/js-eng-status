@@ -1,5 +1,11 @@
 #Worklogs
 
+##2015-July-16
+
+* Started my own implementation of the game and 
+	* Game over
+	* Pausing the game
+
 ##2015-July-15
 
 1. Implementation of 
