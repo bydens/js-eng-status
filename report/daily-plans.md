@@ -1,5 +1,13 @@
 #Daily Plans
 
+##2015-July-20
+
+**Practice**
+
+1. Make TDD
+1. Publish through Github as separate project
+
+
 ##2015-July-17
 
 **Practice**
