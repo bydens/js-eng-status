@@ -1,5 +1,15 @@
 #Worklogs
 
+##2015-July-17
+
+**Practice**
+
+1. My own implementation of the game and 
+	* Game over
+	* Pausing the game
+1. Make commonjs
+1. Started make TDD
+
 ##2015-July-16
 
 * Started my own implementation of the game and 
