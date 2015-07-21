@@ -1,5 +1,12 @@
 #Worklogs
 
+##2015-July-20
+
+**Practice**
+
+1. Starded to make of TDD.
+2. Fixed ["try-bdd-with-utils"](https://github.com/bydens/try-bdd-with-utils)
+
 ##2015-July-17
 
 **Practice**
