@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-July-23
+
+**Practice**
+
+1. Continue to make of TDD
+
 ##2015-July-22
 
 **Practice**
