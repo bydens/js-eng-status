@@ -5,6 +5,17 @@
 **Practice**
 
 1. Make same tests of TDD.
+	* Modified tests for Level object;
+	* Modified tests for Vector object;
+	* Makes tests for DOMDisplay object;
+1. Make README for "A-Platform-Game".
+1. modified package.json for tests.
+
+##2015-July-22
+
+**Practice**
+
+1. Make same tests of TDD.
 
 ##2015-July-21
 
