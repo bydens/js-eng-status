@@ -1,5 +1,23 @@
 #Daily Plans
 
+##2015-July-24
+
+## Theory
+
+> Time: (~4h)
+
+1. [Drawing on canvas](http://eloquentjavascript.net/16_canvas.html)
+
+**Practice**
+
+> Time: (~4h)
+
+1. Exercises  
+	* Game over
+	* Pausing the game
+1. Make your platform game graphic sexy
+1. Publish through Github
+
 ##2015-July-23
 
 **Practice**
