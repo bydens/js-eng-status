@@ -13,10 +13,8 @@
 > Time: (~4h)
 
 1. Exercises  
-	* Game over
+	* Refactoring Game with canvas.
 	* Pausing the game
-1. Make your platform game graphic sexy
-1. Publish through Github
 
 ##2015-July-23
 
