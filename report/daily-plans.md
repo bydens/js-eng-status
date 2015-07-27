@@ -13,7 +13,7 @@
 > Time: (~4h)
 
 1. Exercises  
-	* Refactoring Game with canvas.
+	* Refactoring [Game](https://github.com/bydens/A-Platform-Game/tree/canvas) with canvas.
 	* Pausing the game
 
 ##2015-July-23
