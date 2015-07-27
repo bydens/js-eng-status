@@ -11,7 +11,7 @@
 1. Exercises  
 	* Game over
 	* Publishing the game
-1. Make my platform game graphic sexy
+1. Make my [platform game](https://github.com/bydens/A-Platform-Game/tree/canvas) graphic
 1. Publish through Github
 
 ##2015-July-23
