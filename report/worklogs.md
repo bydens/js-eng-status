@@ -1,5 +1,19 @@
 #Worklogs
 
+##2015-July-24
+
+## Theory
+
+1. [Drawing on canvas](http://eloquentjavascript.net/16_canvas.html)
+
+**Practice**
+
+1. Exercises  
+	* Game over
+	* Publishing the game
+1. Make my platform game graphic sexy
+1. Publish through Github
+
 ##2015-July-23
 
 **Practice**
