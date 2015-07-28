@@ -1,5 +1,28 @@
 #Daily Plans
 
+##2015-July-28
+
+## Theory
+
+> Time: (~4h)
+
+1. [Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
+1. [Sinon Fake Server](http://sinonjs.org/docs/#server) 
+
+**Practice**
+
+> Time: (~4h)
+
+1. Exercises
+	* Waiting for multiple promises
+	* A JavaScript workbench
+	* Autocompletion
+	* Conway’s Game of Life
+
+1. TODO: Write my XHR warper with FAKE server mock
+	* form as a separate project 
+1. Publish through Github
+
 ##2015-July-27
 
 ## Theory
