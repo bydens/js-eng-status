@@ -1,5 +1,17 @@
 #Worklogs
 
+##2015-July-27
+
+## Theory
+
+1. [HTTP](http://eloquentjavascript.net/17_http.html)
+
+**Practice**
+
+1. Exercises
+	* Content negotiation
+1. Refactored [A Platform Game](https://github.com/bydens/A-Platform-Game)
+
 ##2015-July-24
 
 ## Theory
