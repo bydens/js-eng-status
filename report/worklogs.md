@@ -1,5 +1,22 @@
 #Worklogs
 
+##2015-July-28
+
+## Theory
+
+1. [Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
+1. [Sinon Fake Server](http://sinonjs.org/docs/#server)
+
+**Practice**
+
+1. Exercises
+	* Waiting for multiple promises
+	* A JavaScript workbench
+	* Autocompletion
+	* Conway’s Game of Life
+1. Added README in ["A Programming Language"](https://github.com/bydens/A-Programming-Language)
+1. Modified README in ["A Platform Game"](https://github.com/bydens/A-Platform-Game)
+
 ##2015-July-27
 
 ## Theory
