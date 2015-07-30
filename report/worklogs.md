@@ -12,7 +12,7 @@
 	* Rectangles
 	* Color picker
 	* Flood fill
-1. Publish through [Github](https://github.com/bydens/A-Paint-Program) as separate project
+1. Publish through [Github](https://github.com/bydens/A-Paint-Program) as separate project.
 
 ##2015-July-28
 
