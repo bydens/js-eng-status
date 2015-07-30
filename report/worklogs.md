@@ -1,5 +1,19 @@
 #Worklogs
 
+##2015-July-29
+
+## Theory
+
+1. [Project: A Paint Program](http://eloquentjavascript.net/19_paint.html)
+
+**Practice**
+
+1. Exercises  
+	* Rectangles
+	* Color picker
+	* Flood fill
+1. Publish through [Github](https://github.com/bydens/A-Paint-Program) as separate project
+
 ##2015-July-28
 
 ## Theory
