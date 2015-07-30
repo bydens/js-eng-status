@@ -1,5 +1,25 @@
 #Daily Plans
 
+##2015-July-30
+
+## Theory
+
+> Time: (~4h)
+
+1. [Node.js](http://eloquentjavascript.net/20_node.html)
+
+**Practice**
+
+> Time: (~4h)
+
+1. Exercises  
+	* Content negotiation, again
+	* Fixing a leak
+	* Creating directories
+	* A public space on the web
+1. Publish through Github as separate project
+
+
 ##2015-July-29
 
 ## Theory
